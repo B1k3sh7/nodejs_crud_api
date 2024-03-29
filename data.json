@@ -1,0 +1,5 @@
+[
+  { "id": "01", "name": "Harry Kane", "skill": "DJANGO" },
+  { "id": "02", "name": "Dev Potter", "skill": "NEXTJS" },
+  { "id": "03", "name": "Hello Developer", "skill": "REACTJS" }
+]
